@@ -1,3 +1,3 @@
 # Design-Pattern
 
-null pattern
+* null pattern
