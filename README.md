@@ -2,3 +2,4 @@
 
 * null pattern
 * builder pattern
+* Singleton pattern
