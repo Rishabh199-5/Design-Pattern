@@ -4,3 +4,4 @@
 * builder pattern
 * Singleton pattern
 * Facade pattern
+* Command pattern
