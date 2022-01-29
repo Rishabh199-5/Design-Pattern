@@ -5,3 +5,4 @@
 * Singleton pattern
 * Facade pattern
 * Command pattern
+* Single responsibilty principle
