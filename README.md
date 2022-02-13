@@ -6,3 +6,5 @@
 * Facade pattern
 * Command pattern
 * Single responsibilty principle
+* LISCOV
+* Interface Segregation
