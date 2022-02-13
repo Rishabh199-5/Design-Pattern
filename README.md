@@ -8,3 +8,4 @@
 * Single responsibilty principle
 * LISCOV
 * Interface Segregation
+* Dependency inversion
